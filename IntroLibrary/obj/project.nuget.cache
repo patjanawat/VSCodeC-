@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "38Y2sM2hkN1140V2kFbSOAuaigrP3kSIymkylXID7ZW48ZfcHrQF4JmNbBiREQHaljtiyNGC9CRRZg14nuclZw==",
+  "success": true,
+  "projectFilePath": "e:\\repos\\VScodeIntro\\IntroLibrary\\IntroLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kingkong\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\kingkong\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+E:\repos\VScodeIntro\IntroLibrary\bin\Debug\net6.0\IntroLibrary.deps.json
+E:\repos\VScodeIntro\IntroLibrary\bin\Debug\net6.0\IntroLibrary.dll
+E:\repos\VScodeIntro\IntroLibrary\bin\Debug\net6.0\ref\IntroLibrary.dll
+E:\repos\VScodeIntro\IntroLibrary\bin\Debug\net6.0\IntroLibrary.pdb
+E:\repos\VScodeIntro\IntroLibrary\obj\Debug\net6.0\IntroLibrary.csproj.AssemblyReference.cache
+E:\repos\VScodeIntro\IntroLibrary\obj\Debug\net6.0\IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\VScodeIntro\IntroLibrary\obj\Debug\net6.0\IntroLibrary.AssemblyInfoInputs.cache
+E:\repos\VScodeIntro\IntroLibrary\obj\Debug\net6.0\IntroLibrary.AssemblyInfo.cs
+E:\repos\VScodeIntro\IntroLibrary\obj\Debug\net6.0\IntroLibrary.csproj.CoreCompileInputs.cache
+E:\repos\VScodeIntro\IntroLibrary\obj\Debug\net6.0\IntroLibrary.dll
+E:\repos\VScodeIntro\IntroLibrary\obj\Debug\net6.0\ref\IntroLibrary.dll
+E:\repos\VScodeIntro\IntroLibrary\obj\Debug\net6.0\IntroLibrary.pdb

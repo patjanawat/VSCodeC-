@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "e:\\repos\\VScodeIntro\\IntrolUI\\IntrolUI.csproj": {}
+  },
+  "projects": {
+    "e:\\repos\\VScodeIntro\\IntroLibrary\\IntroLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\repos\\VScodeIntro\\IntroLibrary\\IntroLibrary.csproj",
+        "projectName": "IntroLibrary",
+        "projectPath": "e:\\repos\\VScodeIntro\\IntroLibrary\\IntroLibrary.csproj",
+        "packagesPath": "C:\\Users\\kingkong\\.nuget\\packages\\",
+        "outputPath": "e:\\repos\\VScodeIntro\\IntroLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kingkong\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "e:\\repos\\VScodeIntro\\IntrolUI\\IntrolUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\repos\\VScodeIntro\\IntrolUI\\IntrolUI.csproj",
+        "projectName": "IntrolUI",
+        "projectPath": "e:\\repos\\VScodeIntro\\IntrolUI\\IntrolUI.csproj",
+        "packagesPath": "C:\\Users\\kingkong\\.nuget\\packages\\",
+        "outputPath": "e:\\repos\\VScodeIntro\\IntrolUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kingkong\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "e:\\repos\\VScodeIntro\\IntroLibrary\\IntroLibrary.csproj": {
+                "projectPath": "e:\\repos\\VScodeIntro\\IntroLibrary\\IntroLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
